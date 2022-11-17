@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
   .main-content {
@@ -76,9 +75,7 @@
     padding-bottom: 0.5rem;
   }
   .progress-bar {
-    border: 1px solid white;
-    height: 4px;
-    background-color: white;
+    border: 2px solid white;
   }
   .right-main-content {
     padding: 2rem 3rem 2rem 3rem;
@@ -88,7 +85,11 @@
     font-size: 1.2rem;
     font-weight: 700;
     padding: 0.5rem;
-    letter-spacing: 1px;
+  }
+  .right-content {
+    padding-top: 1rem;
+    padding-left: 1rem;
+    word-spacing: 5px;
   }
   .about-section {
     margin: auto;
@@ -99,12 +100,9 @@
   .project-section {
     margin: auto;
   }
-  .login-auth{
-    margin-top: 15px;
-  }
-  .right-content {
-    padding-top: 1rem;
-    padding-left: 1rem;
+
+  .project{
+    margin: 10px;
   }
 
   table {
