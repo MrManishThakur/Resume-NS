@@ -89,7 +89,6 @@
   .right-content {
     padding-top: 1rem;
     padding-left: 1rem;
-    word-spacing: 5px;
   }
   .about-section {
     margin: auto;
@@ -100,7 +99,9 @@
   .project-section {
     margin: auto;
   }
-
+  .activities-section{
+    margin: auto;
+  }
   .project{
     margin: 10px;
   }
